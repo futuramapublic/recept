@@ -1,0 +1,21 @@
+td {
+	padding: 3px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50vw;
+}
+
+table {
+	max-width: 700px;
+}
+
+.text {
+	width: 70vw;
+	max-width: 700px;	
+}
+
+button {
+	width: 100px;
+	height: 45px;
+	margin-top: 15px;
+}

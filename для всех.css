@@ -1,0 +1,21 @@
+p {
+	max-width: 600px;
+}
+
+img {
+	width: 50vw;
+	height: 35vw;
+}
+
+@media screen and (max-width: 500px) {
+	img {
+		width: 100%;
+		height: 65vw;
+	}
+}
+
+button {
+	width: 100px;
+	height: 45px;
+	margin-top: 15px;
+}
